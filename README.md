@@ -1,69 +1,61 @@
+<!-- ===== HEADER / GIF BACKGROUND ===== -->
 <p align="center">
-  <img src="https://i.imgur.com/R576dQu.png" width="100%" />
-    style="width:100vw; max-width:100%; height:auto;"
-  />
+  <img src="https://i.imgur.com/r49Fx65.gif" width="100%" />
 </p>
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="hello" /></p>
-
-<p align='center'>
-<a href="https://discordapp.com/users/798503509522645012/"><img src="resources/svg/discord.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://stackoverflow.com/users/26622521/bytecorum"><img src="resources/svg/stackoverflow.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://www.reddit.com/user/ByteCorum/"><img src="resources/svg/reddit.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://x.com/ByteCorum"><img src="resources/svg/twitter.svg" width="30" height="30" fill="#4A5897"></a>
-<a href="https://ko-fi.com/bytecorum"><img src="resources/svg/donate.svg" width="30" height="30" fill="#4A5897"></a>
-</a>
+<!-- ===== TYPING TITLE ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=120&color=8A7CFF&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile;I'm+skywall1337" alt="typing" />
 </p>
 
-<p align='center'><img src="resources/svg/line.svg" width="750" ></p>
-
-<!--<p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=bytecorum&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
-
-<p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>-->
-
-<!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="stats" /></p>-->
-<h3 align="center">Github Statistic</h3>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&ring_color=608DD9&card_width=340" height="220" style="display:inline-block;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecorum&hide_progress=false&layout=donut&size_weight=0.5&count_weight=0.5&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&card_width=280" height="220" style="display:inline-block;">
+<!-- ===== LINKS ===== -->
+<p align="center">
+  <a href="https://discord.gg/ВАШ_ИНВАЙТ" title="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/skywall1337" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/OWNER_ID" title="Owner Discord">
+    <img src="https://img.shields.io/badge/Owner-0A0A0A?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
-<p align='center'><img src="resources/svg/line.svg" width="750" ></p>
-
-<!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="skills" /></p>-->
-<h3 align="center">My Tech Stack</h3>
-
-<p align='center'>
-<img src="resources/svg/c.svg" width="40" height="40"></a>
-<img src="resources/svg/cpp.svg" width="40" height="40"></a>
-<img src="resources/svg/csharp.svg" width="40" height="40"></a>
-<img src="resources/svg/python.svg" width="40" height="40"></a>
-<img src="resources/svg/javascript.svg" width="40" height="40"></a>
-<img src="resources/svg/html.svg" width="40" height="40"></a>
-<img src="resources/svg/css.svg" width="40" height="40"></a>
-<img src="resources/svg/bash.svg" width="40" height="40"><br>
-<img src="resources/svg/dotnet.svg" width="40" height="40">
-<img src="resources/svg/arduino.svg" width="40" height="40">
-<img src="resources/svg/git.svg" width="40" height="40">
-<img src="resources/svg/mysql.svg" width="40" height="40">
-<img src="resources/svg/at.svg" width="40" height="40">
-<img src="resources/svg/unity.svg" width="40" height="40">
-<img src="resources/svg/ue.svg" width="40" height="40">
-<img src="resources/svg/linux.svg" width="40" height="40">
+<!-- ===== SEPARATOR ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A7CFF" width="80%" />
 </p>
 
-<!--<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=DragonBurn&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=BIOS&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+<!-- ===== ABOUT ===== -->
+<h3 align="center">🌌 About</h3>
+<p align="center">
+  <b>skywall1337</b> — минималистичный, тёмный и технологичный профиль. <br/>
+  Здесь вы найдёте актуальные ссылки, анонсы и обновления.
 </p>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Py-Shield&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=Developers-Life&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
-</p>-->
+<!-- ===== GITHUB STATS ===== -->
+<h3 align="center">📊 GitHub Statistic</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skywall1337&show_icons=true&hide_rank=true&theme=tokyonight&border_radius=15" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywall1337&layout=donut&theme=tokyonight&border_radius=15" height="200" />
+</p>
 
-<p align='center'><img src="resources/svg/footer.svg"></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8A7CFF" width="80%" />
+</p>
+
+<!-- ===== CONTACTS ===== -->
+<h3 align="center">🔗 Contacts</h3>
+<p align="center">
+  💬 Discord: <a href="https://discord.gg/ВАШ_ИНВАЙТ">Join server</a><br/>
+  📣 Telegram: <a href="https://t.me/skywall1337">@skywall1337</a><br/>
+  👑 Owner Discord: <a href="https://discordapp.com/users/OWNER_ID">OWNER_ID</a>
+</p>
+
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,100:302b63&section=footer" width="100%" />
+</p>

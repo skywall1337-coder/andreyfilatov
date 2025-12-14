@@ -1,7 +1,3 @@
-<!-- ===== HEADER / GIF BACKGROUND ===== -->
-<p align="center">
-  <img src="https://i.imgur.com/r49Fx65.gif" width="100%" />
-</p>
 
 <!-- ===== TYPING TITLE ===== -->
 <p align="center">

@@ -19,9 +19,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00BFFF" width="80%" />
 </p>
 
+<!-- ===== ABOUT ===== -->
 <h3 align="center">🌌 About</h3>
 <p align="center">
-  <i>«Я важный, как хуй бумажный.» — Джейсон</i>
+  <i>«Я важный, как хуй бумажный.» — Джейсон</i><br/>
+  А я просто Андрей Филатов
 </p>
 <!-- ===== GITHUB STATS ===== -->
 <h3 align="center">📊 GitHub Statistic</h3>

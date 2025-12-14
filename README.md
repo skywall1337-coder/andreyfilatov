@@ -19,13 +19,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00BFFF" width="80%" />
 </p>
 
-<!-- ===== ABOUT ===== -->
 <h3 align="center">🌌 About</h3>
 <p align="center">
-  <b>skywall1337</b> — минималистичный, тёмный и технологичный профиль. <br/>
-  Здесь вы найдёте актуальные ссылки, анонсы и обновления.
+  <i>«Я важный, как хуй бумажный.» — Джейсон</i>
 </p>
-
 <!-- ===== GITHUB STATS ===== -->
 <h3 align="center">📊 GitHub Statistic</h3>
 <p align="center">

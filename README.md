@@ -28,9 +28,9 @@
 <!-- ===== GITHUB STATS ===== -->
 <h3 align="center">📊 GitHub Statistic</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skywall1337-coder&show_icons=true&hide_rank=true&theme=blueberry&border_radius=15" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skywall1337-coder&show_icons=true&hide_rank=true&theme=react&border_radius=15" height="200" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywall1337-coder&layout=donut&theme=blueberry&border_radius=15" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywall1337-coder&layout=donut&theme=react&border_radius=15" height="200" />
 </p>
 
 <p align="center">

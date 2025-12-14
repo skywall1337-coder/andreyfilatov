@@ -6,7 +6,7 @@
 
 <!-- ===== LINKS ===== -->
 <p align="center">
-  <a href="https://discord.gg/ВАШ_ИНВАЙТ" title="Discord">
+  <a href="https://discord.gg/sjwbPjBwh2" title="Discord">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;

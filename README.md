@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/R576dQu.png" width="100%" />
+    style="width:100vw; max-width:100%; height:auto;"
+  />
 </p>
 
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="hello" /></p>
